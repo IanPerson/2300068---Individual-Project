@@ -38,8 +38,8 @@ _The changes you have made since the group submission._
 ## Known Bugs
 _List any issues you are aware of and how to avoid them_
 
-* The grabber's arm will not appear when attempting to grab the player. This would not go away despite everything I did in an attempt to fix it. Focus on keeping any grabber's as far away as possible, as their difficult to escape even when their arm is visible.
-
+* The grabber's arm will not appear when attempting to grab the player. This would not go away despite everything I did in an attempt to fix it. Focus on keeping any grabber's as far away as possible, as their difficult to escape even when their arm is visible. (FIXED)
+* The program would crash when picking up a lantern due to attempting to access data of a deleted object (FIXED)=
 * All chickens are incorporeal. They may wander somewhere you cannot reach them, but they come back eventually. It's impossible for them to leave the map borders.
 ---
 ---
